@@ -1,16 +1,3 @@
-// Emmanuel Tarantino
-// NID: em083040
-// COP3502 Szumlanski
-// Assignment 02
-
-
-/*
-	A programmer's wife is having a baby. 
-	The doctor immediately hands the newborn to the dad.
-	The wife asks the dad, "Is it a boy or a girl?" 
-	The programmer says, "Yes."
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "LonelyPartyArray.h"
